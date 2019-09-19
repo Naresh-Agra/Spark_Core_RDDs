@@ -114,9 +114,6 @@ object Spark_Core {
     take.foreach(println)
 
     
-    
-    
-    
-    
+  
   }
 }
